@@ -1,4 +1,4 @@
-# download-hls
+# hls-get
 
 Easily download HLS streams
 
