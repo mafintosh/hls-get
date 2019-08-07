@@ -1,10 +1,10 @@
 {
-  "name": "hls-dl",
+  "name": "hls-get",
   "version": "1.0.0",
   "description": "Easily download HLS streams",
   "main": "index.js",
   "bin": {
-    "hls-dl": "./bin.js"
+    "hls-get": "./bin.js"
   },
   "dependencies": {
     "mkdirp": "^0.5.1",
@@ -13,12 +13,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/hls-dl.git"
+    "url": "https://github.com/mafintosh/hls-get.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/hls-dl/issues"
+    "url": "https://github.com/mafintosh/hls-get/issues"
   },
-  "homepage": "https://github.com/mafintosh/hls-dl"
+  "homepage": "https://github.com/mafintosh/hls-get"
 }

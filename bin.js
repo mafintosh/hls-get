@@ -3,7 +3,7 @@
 const download = require('./')
 
 if (process.argv.length < 4) {
-  console.error('Usage: hls-dl <url> <dest>')
+  console.error('Usage: hls-get <url> <dest>')
   process.exit(1)
 }
 
