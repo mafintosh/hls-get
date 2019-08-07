@@ -1,6 +1,6 @@
 {
   "name": "hls-dl",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily download HLS streams",
   "main": "index.js",
   "bin": {
