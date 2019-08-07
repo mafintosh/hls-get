@@ -1,0 +1,24 @@
+{
+  "name": "hls-dl",
+  "version": "0.0.0",
+  "description": "Easily download HLS streams",
+  "main": "index.js",
+  "bin": {
+    "hls-dl": "./bin.js"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/hls-dl.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/hls-dl/issues"
+  },
+  "homepage": "https://github.com/mafintosh/hls-dl"
+}
